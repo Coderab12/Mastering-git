@@ -1,3 +1,4 @@
-## Hello, Git!
+## Hello and welcome, Git!
 
-**_ This my first git project _**
+- Here are some changes
+  **_ This my first git project _**
