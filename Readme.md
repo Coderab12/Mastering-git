@@ -1,3 +1,3 @@
-## Hello welcome to my git repo!
+## Hello and welcome, Git!
 
 **_ This my first git project _**
